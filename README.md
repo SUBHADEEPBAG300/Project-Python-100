@@ -89,7 +89,7 @@ Perfect for those starting their Python journey. Focus on fundamentals like vari
 | 13 | [Fibonacci Sequence Generator](./Beginner_Level/Project-13) | Algorithms, Loops, Optimization | ✅ |
 | 14 | [Countdown Timer](./Beginner_Level/Project-14) | Time Module, Loops, User Interface | ✅ |
 | 15 | [Digital Clock](./Beginner_Level/Project-15) | Tkinter, Time Module, GUI Basics | ✅ |
-| 16 | [Factorial Calculator]() | Recursion, Mathematical Operations | 🚧 |
+| 16 | [Factorial Calculator](./Beginner_Level/Project-16) | Recursion, Mathematical Operations | ✅ |
 | 17 | [To-Do List (File Based)]() | Lists, GUI , Storage | 🚧 |
 | 18 | [Mad Libs Generator]() | String Formatting, User Input, Creativity | 🚧 |
 | 19 | [Hangman Game]() | ASCII , List , User Input, Creativity | 🚧 |
