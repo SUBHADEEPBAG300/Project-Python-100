@@ -1,4 +1,4 @@
-# Palindrome Finder
+# Palindrome Finder  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow) [![License](https://img.shields.io/github/license/Debanga-06/Code-Odessey)](https://github.com/Debanga-06/Code-Odessey/blob/main/LICENSE)
 
 A Python program that checks if a word or number is a palindrome (reads the same forward and backward).
 

@@ -1,4 +1,4 @@
-# Unit Converter
+# Unit Converter ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow) [![License](https://img.shields.io/github/license/Debanga-06/Code-Odessey)](https://github.com/Debanga-06/Code-Odessey/blob/main/LICENSE)
 
 A Python program that converts between various units of measurement including distance, temperature, weight, length, and volume.
 

@@ -1,4 +1,4 @@
-# Countdown Timer 
+# Countdown Timer  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow) [![License](https://img.shields.io/github/license/Debanga-06/Code-Odessey)](https://github.com/Debanga-06/Code-Odessey/blob/main/LICENSE)
 
 A console-based countdown timer with live display, multiple time input formats, and customizable completion messages.
 

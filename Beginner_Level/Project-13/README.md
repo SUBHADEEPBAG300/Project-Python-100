@@ -1,4 +1,4 @@
-# Fibonacci Sequence Generator 
+# Fibonacci Sequence Generator   ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow) [![License](https://img.shields.io/github/license/Debanga-06/Code-Odessey)](https://github.com/Debanga-06/Code-Odessey/blob/main/LICENSE)
 
 Generate and analyze Fibonacci sequences with multiple algorithms, golden ratio convergence, and mathematical insights.
 

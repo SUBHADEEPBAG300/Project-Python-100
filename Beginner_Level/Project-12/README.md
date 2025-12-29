@@ -1,4 +1,4 @@
-# Prime Number Checker 
+# Prime Number Checker  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow) [![License](https://img.shields.io/github/license/Debanga-06/Code-Odessey)](https://github.com/Debanga-06/Code-Odessey/blob/main/LICENSE)
 
 A comprehensive Python application for checking prime numbers with advanced features including factorization, range checking, and number analysis.
 

@@ -1,4 +1,4 @@
-# Password Generator 
+# Password Generator  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow) [![License](https://img.shields.io/github/license/Debanga-06/Code-Odessey)](https://github.com/Debanga-06/Code-Odessey/blob/main/LICENSE)
 
 A Python program that creates strong, random passwords with customizable options for letters, numbers, and symbols.
 

@@ -1,4 +1,4 @@
-# Leap Year Checker
+# Leap Year Checker ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=yellow) [![License](https://img.shields.io/github/license/Debanga-06/Code-Odessey)](https://github.com/Debanga-06/Code-Odessey/blob/main/LICENSE)
 
 A simple Python program that determines whether a given year is a leap year or not.
 
