@@ -352,7 +352,7 @@ If you find this repository helpful, please consider:
 
 **Debanga** - [@Debanga-06](https://github.com/Debanga-06)
 
-**Email** - mailto:debanga078@gmail.com
+**Email** - [debanga078@gmail.com](mailto:debanga078@gmail.com)
 
 **Project Link:** [https://github.com/Debanga-06/Project-Python-100](https://github.com/Debanga-06/Project-Python-100)
 
