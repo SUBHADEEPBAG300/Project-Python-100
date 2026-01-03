@@ -93,9 +93,9 @@ Perfect for those starting their Python journey. Focus on fundamentals like vari
 | 17 | [To-Do List (File Based)](./Beginner_Level/Project-17) | Lists, GUI , Storage | ✅ |
 | 18 | [Mad Libs Generator](./Beginner_Level/Project-18) | String Formatting, User Input, Creativity | ✅ |
 | 19 | [Hangman Game](./Beginner_Level/Project-19) | ASCII , List , User Input, Creativity | ✅ |
-| 20 | [Word Counter]() | File Operations, Text Processing | 🔄 |
-| 21 | [QR Code Generator]() | Libraries , Image Path , Functions | 🚧 |
-| 22 | [Currency Converter]() | API Integration, JSON, Calculations | 🚧 |
+| 20 | [Word Counter](./Beginner_Level/Project-20) | File Operations, Text Processing | ✅ |
+| 21 | [QR Code Generator](./Beginner_Level/Project-21) | Libraries , Image Path , Functions | ✅ |
+| 22 | [Currency Converter]() | API Integration, JSON, Calculations | 🔄 |
 | 23 | [Email Slicer]() | Pattern Analysis, Email Detection, Function | 🚧 |
 | 24 | [Simple & Compound Interest Calculator]() | Calculations, User Input, Formatting | 🚧 |
 | 25 | [Typing Speed Test]() | Libraries , Functions , Calculation | 🚧 |
@@ -113,8 +113,8 @@ Build on fundamentals with API integration, web scraping, GUI development, and d
 | # | Project Name | Key Concepts | Status |
 |---|--------------|--------------|--------|
 | 1 | [Weather App](./Intermediate_Level/Project-01) | API Integration, JSON, GUI | ✅ |
-| 2 | URL Shortener | Database, Hashing, Web Development | 🔄 |
-| 3 | QR Code Generator | Libraries, Image Processing | 🚧 |
+| 2 | [URL Shortener](./Intermediate_Level/Project-02) | Database, Hashing, Web Development | ✅ |
+| 3 | QR Code Generator | Libraries, Image Processing | 🔄 |
 | 4 | Web Scraper | BeautifulSoup, Requests, HTML Parsing | 🚧 |
 | 5 | Email Sender | SMTP, Email Libraries, Automation | 🚧 |
 | 6 | Expense Tracker | Database, Data Visualization, Analysis | 🚧 |
@@ -327,9 +327,9 @@ Expert (1-25)
 ## 📊 Project Status
 
 - **Total Projects Planned:** 100
-- **Completed:** 20
-- **In Progress:** 80
-- **Last Updated:** December 2025
+- **Completed:** 23
+- **In Progress:** 77
+- **Last Updated:** January 2026
 
 ---
 
