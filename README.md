@@ -95,12 +95,12 @@ Perfect for those starting their Python journey. Focus on fundamentals like vari
 | 19 | [Hangman Game](./Beginner_Level/Project-19) | ASCII , List , User Input, Creativity | ✅ |
 | 20 | [Word Counter](./Beginner_Level/Project-20) | File Operations, Text Processing | ✅ |
 | 21 | [QR Code Generator](./Beginner_Level/Project-21) | Libraries , Image Path , Functions | ✅ |
-| 22 | [Currency Converter]() | API Integration, JSON, Calculations | 🔄 |
-| 23 | [Email Slicer]() | Pattern Analysis, Email Detection, Function | 🚧 |
-| 24 | [Simple & Compound Interest Calculator]() | Calculations, User Input, Formatting | 🚧 |
-| 25 | [Typing Speed Test]() | Libraries , Functions , Calculation | 🚧 |
-| 26 | [Simple Quiz Game]() | Lists, Dictionaries, Scoring System | 🚧 |
-| 27 | [Text Analyzer]() | String Methods, File Reading, Statistics | 🚧 |
+| 22 | [Currency Converter](./Beginner_Level/Project-22) | API Integration, JSON, Calculations | ✅ |
+| 23 | [Email Slicer](./Beginner_Level/Project-23) | Pattern Analysis, Email Detection, Function | ✅ |
+| 24 | [Simple & Compound Interest Calculator]() | Calculations, User Input, Formatting | 🔄 |
+| 25 | [Typing Speed Test]() | Libraries , Functions , Calculation | 🔄 |
+| 26 | [Simple Quiz Game]() | Lists, Dictionaries, Scoring System | 🔄 |
+| 27 | [Text Analyzer]() | String Methods, File Reading, Statistics | 🔄 |
 | 28 | [Simple Stopwatch]() | Time Module, GUI, Control Flow | 🚧 |
 | 29 | [Age Calculator]() | DateTime, Date Arithmetic | 🚧 |
 | 30 | [Simple Contact Book]() | File I/O, CRUD, Data Management | 🚧 |
@@ -327,8 +327,8 @@ Expert (1-25)
 ## 📊 Project Status
 
 - **Total Projects Planned:** 100
-- **Completed:** 23
-- **In Progress:** 77
+- **Completed:** 25
+- **In Progress:** 75
 - **Last Updated:** January 2026
 
 ---
