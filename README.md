@@ -98,7 +98,7 @@ Perfect for those starting their Python journey. Focus on fundamentals like vari
 | 22 | [Currency Converter](./Beginner_Level/Project-22) | API Integration, JSON, Calculations | ✅ |
 | 23 | [Email Slicer](./Beginner_Level/Project-23) | Pattern Analysis, Email Detection, Function | ✅ |
 | 24 | [Simple & Compound Interest Calculator](./Beginner_Level/Project-24) | Calculations, User Input, Formatting | ✅ |
-| 25 | [Typing Speed Test]() | Libraries , Functions , Calculation | 🔄 |
+| 25 | [Typing Speed Test](./Beginner_Level/Project-25) | Libraries , Functions , Calculation | ✅ |
 | 26 | [Simple Quiz Game]() | Lists, Dictionaries, Scoring System | 🔄 |
 | 27 | [Text Analyzer]() | String Methods, File Reading, Statistics | 🔄 |
 | 28 | [Simple Stopwatch]() | Time Module, GUI, Control Flow | 🚧 |
@@ -327,8 +327,8 @@ Expert (1-25)
 ## 📊 Project Status
 
 - **Total Projects Planned:** 100
-- **Completed:** 27
-- **In Progress:** 73
+- **Completed:** 28
+- **In Progress:** 72
 - **Last Updated:** January 2026
 
 ---
