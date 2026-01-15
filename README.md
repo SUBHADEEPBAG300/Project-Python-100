@@ -99,12 +99,12 @@ Perfect for those starting their Python journey. Focus on fundamentals like vari
 | 23 | [Email Slicer](./Beginner_Level/Project-23) | Pattern Analysis, Email Detection, Function | ✅ |
 | 24 | [Simple & Compound Interest Calculator](./Beginner_Level/Project-24) | Calculations, User Input, Formatting | ✅ |
 | 25 | [Typing Speed Test](./Beginner_Level/Project-25) | Libraries , Functions , Calculation | ✅ |
-| 26 | [Simple Quiz Game]() | Lists, Dictionaries, Scoring System | 🔄 |
+| 26 | [Simple Quiz Game](./Beginner_Level/Project-26) | Lists, Dictionaries, Scoring System | ✅ |
 | 27 | [Text Analyzer]() | String Methods, File Reading, Statistics | 🔄 |
-| 28 | [Simple Stopwatch]() | Time Module, GUI, Control Flow | 🚧 |
-| 29 | [Age Calculator]() | DateTime, Date Arithmetic | 🚧 |
-| 30 | [Simple Contact Book]() | File I/O, CRUD, Data Management | 🚧 |
-| 31 | [Flashcards App (CLI)]() | File I/O, JSON, Data Management | 🚧 |
+| 28 | [Simple Stopwatch]() | Time Module, GUI, Control Flow | 🔄 |
+| 29 | [Age Calculator]() | DateTime, Date Arithmetic | 🔄 |
+| 30 | [Simple Contact Book]() | File I/O, CRUD, Data Management | 🔄 |
+| 31 | [Flashcards App (CLI)]() | File I/O, JSON, Data Management | 🔄 |
 
 ### **Intermediate Projects (1-25)**
 
@@ -327,8 +327,8 @@ Expert (1-25)
 ## 📊 Project Status
 
 - **Total Projects Planned:** 100
-- **Completed:** 28
-- **In Progress:** 72
+- **Completed:** 29
+- **In Progress:** 71
 - **Last Updated:** January 2026
 
 ---
