@@ -268,6 +268,112 @@ Master-level projects featuring distributed systems, advanced ML, cloud integrat
 
 ---
 
+## 👥 Contributors
+
+This project exists thanks to all the amazing people who contribute! 🎉
+
+### 🏆 Core Team
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Debanga-06">
+        <img src="https://github.com/Debanga-06.png" width="100px;" alt="Debanga"/>
+        <br />
+        <sub><b>Debanga</b></sub>
+      </a>
+      <br />
+      <span title="Project Creator">🌟 Creator</span>
+      <br />
+      <span title="Code">💻 24 Projects</span>
+      <span title="Documentation">📖 Docs</span>
+      <span title="Maintenance">🔧 Maintainer</span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jiban0507">
+        <img src="https://github.com/Jiban0507.png" width="100px;" alt="Jiban"/>
+        <br />
+        <sub><b>Jiban</b></sub>
+      </a>
+      <br />
+      <span title="Controller">🕹️ Repo Controller</span>
+      <br />
+      <span title="Code">💻 20 Projects</span>
+  </tr>
+</table>
+
+### 🌟 Top Contributors
+
+<!-- This section will be automatically updated -->
+<a href="https://github.com/Debanga-06/Project-Python-100/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Debanga-06/Project-Python-100" />
+</a>
+
+### 📊 Contribution Stats
+
+| Contributor | Projects Added | Bug Fixes | Documentation | Code Reviews | Total Contributions |
+|-------------|----------------|-----------|---------------|--------------|---------------------|
+| [@Debanga-06](https://github.com/Debanga-06) | 24 | - | ✅ | ✅ | 25+ |
+| [@Jiban0507](https://github.com/Jiban0507) | 20 | - | - | - | 22+ |
+
+### 🎖️ Hall of Fame
+
+#### 🥇 Gold Contributors (10+ Projects)
+- **[@Debanga-06](https://github.com/Debanga-06)** - 24 projects completed across all levels
+- **[@Jiban0507](https://github.com/Jiban0507)** - 20 projects completed across all levels
+
+#### 🥈 Silver Contributors (5-9 Projects)
+- *Be the first silver contributor!*
+
+#### 🥉 Bronze Contributors (1-4 Projects)
+- *Join the contributor list!*
+
+### 💝 Special Thanks
+
+Special recognition to contributors who have made significant non-code contributions:
+
+- 🐛 **Bug Hunters** - Helping identify and report issues
+- 📝 **Documentation Heroes** - Improving project documentation
+- 💡 **Idea Contributors** - Suggesting new projects and features
+- 🎨 **Design Contributors** - Enhancing UI/UX and visual elements
+- 🌍 **Community Builders** - Helping others learn and grow
+
+### 📈 Contribution Activity
+
+```
+Total Contributors:     1
+Total Commits:         100+
+Total Pull Requests:    34
+Total Issues Resolved:  0
+```
+
+### 🎯 Contribution Milestones
+
+- ✅ **Project Launch** - January 2025
+- ✅ **First 10 Projects** - January 2025
+- ✅ **First 25 Projects** - January 2025
+- 🎯 **50 Projects** - Target: March 2025
+- 🎯 **100 Projects** - Target: June 2025
+
+### 🌟 Recognition Badges
+
+Contributors can earn badges based on their contributions:
+
+| Badge | Criteria | Recipients |
+|-------|----------|------------|
+| 🌟 **Project Creator** | Founded the project | [@Debanga-06](https://github.com/Debanga-06) |
+| 🏗️ **Architect** | 20+ projects | - |
+| 💎 **Expert Developer** | 10+ advanced projects | - |
+| 🎓 **Mentor** | Helping 5+ contributors | - |
+| ⚡ **Quick Responder** | Responds within 24h | - |
+| 🔥 **Streak Master** | 30 day contribution streak | - |
+| 🐛 **Bug Squasher** | 10+ bugs fixed | - |
+| 📚 **Documentation Pro** | Extensive docs contribution | - |
+| 🎨 **Design Wizard** | UI/UX improvements | - |
+| 🌍 **Community Champion** | Active community support | - |
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome and appreciated! Here's how you can help:
