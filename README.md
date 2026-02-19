@@ -124,7 +124,7 @@ Build on fundamentals with API integration, web scraping, GUI development, and d
 | 10 | [Pomodoro Timer](./Intermediate_Level/Project-10) | GUI, Time Management, Notifications | ✅ |
 | 11 | [RSS Feed Reader](./Intermediate_Level/Project-11) | XML Parsing, Web Feeds, Display | ✅ |
 | 12 | [Image Resizer](./Intermediate_Level/Project-12) | PIL/Pillow, Batch Processing | ✅ |
-| 13 | [YouTube Downloader]() | pytube, File Management | 🔄 |
+| 13 | [YouTube Downloader](./Intermediate_Level/Project-13) | pytube, File Management | ✅ |
 | 14 | [Snake Game]() | Pygame, Game Development | 🔄 |
 | 15 | [Chat Application]() | Sockets, Networking, Threading | 🔄 |
 | 16 | [Typing Speed Test]() | GUI, Timing, Statistics | 🚧 |
