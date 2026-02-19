@@ -127,16 +127,16 @@ Build on fundamentals with API integration, web scraping, GUI development, and d
 | 13 | [YouTube Downloader](./Intermediate_Level/Project-13) | pytube, File Management | ✅ |
 | 14 | [Snake Game]() | Pygame, Game Development | 🔄 |
 | 15 | [Chat Application]() | Sockets, Networking, Threading | 🔄 |
-| 16 | [Typing Speed Test]() | GUI, Timing, Statistics | 🚧 |
-| 17 | [Sudoku Solver]() | Backtracking Algorithm, Recursion | 🚧 |
-| 18 | [Alarm Clock]() | Time Module, Audio, Threading | 🚧 |
+| 16 | [Typing Speed Test]() | GUI, Timing, Statistics | 🔄 |
+| 17 | [Sudoku Solver]() | Backtracking Algorithm, Recursion | 🔄 |
+| 18 | [Alarm Clock]() | Time Module, Audio, Threading | 🔄 |
 | 19 | [PDF Merger](./Intermediate_Level/Project-19) | PyPDF2, File Operations | ✅ |
-| 20 | [Screen Recorder]() | Screen Capture, Video Processing | 🚧 |
-| 21 | [Music Player]() | Pygame, GUI, Playlist Management | 🚧 |
-| 22 | [Hangman Game]() | Game Logic, File I/O, GUI | 🚧 |
-| 23 | [Tic-Tac-Toe AI]() | Game Theory, Minimax Algorithm | 🚧 |
-| 24 | [Language Translator]() | API, GUI, Multiple Languages | 🚧 |
-| 25 | [Budget Planner]() | Data Analysis, Visualization, Reports | 🚧 |
+| 20 | [Screen Recorder]() | Screen Capture, Video Processing | 🔄 |
+| 21 | [Music Player]() | Pygame, GUI, Playlist Management | 🔄 |
+| 22 | [Hangman Game]() | Game Logic, File I/O, GUI | 🔄 |
+| 23 | [Tic-Tac-Toe AI]() | Game Theory, Minimax Algorithm | 🔄 |
+| 24 | [Language Translator]() | API, GUI, Multiple Languages | 🔄 |
+| 25 | [Budget Planner]() | Data Analysis, Visualization, Reports | 🔄 |
 
 ### **Advanced Projects (1-25)**
 
