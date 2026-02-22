@@ -134,7 +134,7 @@ Build on fundamentals with API integration, web scraping, GUI development, and d
 | 20 | [Screen Recorder]() | Screen Capture, Video Processing | 🔄 |
 | 21 | [Music Player]() | Pygame, GUI, Playlist Management | 🔄 |
 | 22 | [Hangman Game]() | Game Logic, File I/O, GUI | 🔄 |
-| 23 | [Tic-Tac-Toe AI]() | Game Theory, Minimax Algorithm | 🔄 |
+| 23 | [Tic-Tac-Toe AI](./Intermediate_Level/Project-23) | Game Theory, Minimax Algorithm | ✅ |
 | 24 | [Language Translator]() | API, GUI, Multiple Languages | 🔄 |
 | 25 | [Budget Planner]() | Data Analysis, Visualization, Reports | 🔄 |
 
@@ -433,8 +433,8 @@ Expert (1-25)
 ## 📊 Project Status
 
 - **Total Projects Planned:** 106
-- **Completed:** 50
-- **In Progress:** 56
+- **Completed:** 51
+- **In Progress:** 55
 - **Last Updated:** January 2026
 
 ---
